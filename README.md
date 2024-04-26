@@ -2,6 +2,8 @@
 
 🌟 Welcome to the Zomato Power BI Dashboard Project! 📊🍽️
 
+Dashboard Link : https://app.powerbi.com/groups/me/reports/1e69529e-6cc6-46ec-99ba-ba9808cbc007/ReportSection1465877ae891cae065c1?experience=power-bi
+
 In this project, we explore valuable insights gleaned from analyzing Zomato's data using Power BI, a powerful business intelligence tool.
 
 ## Project Overview
